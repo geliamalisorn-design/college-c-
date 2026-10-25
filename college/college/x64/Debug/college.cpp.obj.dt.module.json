@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "college\\x64\\Debug\\college.obj",
+            "outputs": [
+                "college\\x64\\Debug\\college.cpp.obj.dt.module.json",
+                "college\\x64\\Debug\\college.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
